@@ -1,4 +1,4 @@
-<h1 style="color: red;">U.R.S.S</h1>
+<h1 style="color: red;">Team SASHA</h1>
 Software sviluppato per la competizione di Robocup del 24/25
 
 Caratteristiche del robot:
